@@ -1,7 +1,7 @@
 This file is for assignment 4 of Web Services and Applications.
 
 The purpose of this assignment is to read in a file from a repository. 
-Write a program that will replace all instances of the text "Andrew" with Irene and push back to the repository.
+Write a program that will replace all instances of the text "Irene" with Irene and push back to the repository.
 
-Andrew Andrew
-Andrew Andrew
+Irene Irene
+Irene Irene
